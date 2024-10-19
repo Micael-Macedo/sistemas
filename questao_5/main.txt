@@ -1,0 +1,10 @@
+Eu faria os seguintes passos:
+ 1) ligar um interruptor e deixe-o ligado por alguns minutos. 
+ 2) desliguar este interruptor e liguar um segundo interruptor. 
+ 3) Iria na sala das lâmpadas. 
+ 4) A lâmpada que estiver acesa será denominado segundo interruptor, a lâmpada que estiver apagada e quente será o primeiro interruptor e a lâmpada que estiver apagada e fria será denominada terceiro interruptor.
+Conclusão:
+ Interruptor 1) apagado e quente
+ Interruptor 2) acesso
+ Interruptor 3) apagado e frio
+
